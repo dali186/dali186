@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="72" height="72" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="72" height="72" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="72" height="72" /></div>
+<!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="72" height="72" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="72" height="72" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="72" height="72" /></div> -->

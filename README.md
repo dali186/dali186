@@ -1,4 +1,5 @@
-### Hi there 👋 I'm KimJoowon
+### Hi there 👋
+
 
 ### Focus on
 ---------

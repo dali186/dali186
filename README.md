@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="72" height="72" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="72" height="72" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="72" height="72" /></div> -->
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<!--![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
